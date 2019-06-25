@@ -8,7 +8,7 @@ Clearly, containers are an exciting new advancement in creating and delivering a
 
 #############ARCHITECTURE AND DESIGN
 
-1-- 
+1-- https://user-images.githubusercontent.com/51926765/60101723-45fadd80-972a-11e9-9a9b-556010beea10.png
 
 
 2-- In this we created one database 'host_agent' and two tables named 'host_info' which stores hardware specification information and other table 'host_usage' which stores CPU and memory data .
