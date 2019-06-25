@@ -28,9 +28,9 @@ CREATE TABLE  PUBLIC.host_usage(timestamp TIMESTAMP NOT NULL,host_id SERIAL NOT 
 
 
 ################IMPROVEMENTS
-1--
-2--
-3--
+1--we can implement fail-over cluster incase one goes down we can continue functioning with the other one
+2--hardware updates
+
 
 
 
