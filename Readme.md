@@ -10,7 +10,7 @@ Clearly, containers are an exciting new advancement in creating and delivering a
 ![](images/bash.png)
 
 
-2-- In this we created one database 'host_agent' and two tables named 'host_info' which stores hardware specification information and other table 'host_usage' which stores CPU and memory data .
+- In this we created one database 'host_agent' and two tables named 'host_info' which stores hardware specification information and other table 'host_usage' which stores CPU and memory data .
 3-- We created two scripts named 'host_info.sh'which collects host hardware info  and stores it in table created named 'host_info' and other script'host_usage' collects CPU and memory data and stores it in table 'host_usage' .We also created init.sql file to create databse and its correspondings tables
 
 
