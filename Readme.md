@@ -7,8 +7,6 @@ Clearly, containers are an exciting new advancement in creating and delivering a
 
 
 # ARCHITECTURE AND DESIGN
-
-- Diagram
 ![](images/bash.png)
 
 
